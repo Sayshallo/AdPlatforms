@@ -1,0 +1,9 @@
+Яндекс.Директ:/ru,/www
+Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik
+Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl
+Крутая реклама:/ru/svrd
+# + добавленные
+Питерская правда:/ru/piter/
+Мировые новости:/www
+Лондонские будни:/www/lndn
+Сводка Tower Bridge:/www/lndn/bridge
